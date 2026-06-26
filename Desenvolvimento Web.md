@@ -1,2 +1,4 @@
-[[HTML]]
-[[CSS]]
+- [[HTML]]
+- [[CSS]]
+- [[Banco de Dados]]
+- [[JavaScript]]
