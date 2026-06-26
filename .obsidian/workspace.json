@@ -21,10 +21,14 @@
             "id": "c845a13cb18149e9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "d.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "d"
             }
           }
         ],
@@ -223,17 +227,17 @@
   },
   "active": "c845a13cb18149e9",
   "lastOpenFiles": [
-    "html/Estrutura do HTML/head.md",
     "html/Estrutura do HTML/Estrutura.md",
-    "html/Estrutura do HTML/doctype.md",
     "html/Estrutura do HTML/body.md",
+    "html/Estrutura do HTML/doctype.md",
+    "html/Estrutura do HTML/head.md",
     "html/HTML.md",
+    "d.md",
     "html/Estrutura do HTML",
     "html",
     "css/CSS.md",
     "css",
     "README.md",
-    "Sem título.md",
     "copilot/copilot-conversations/teste@20260626_174148.md",
     "copilot/copilot-conversations",
     "copilot",
