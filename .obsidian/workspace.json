@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "0da16eacab5289ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3ed95dc6ed21648",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb022db178eddf7a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          },
+          {
+            "id": "c845a13cb18149e9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "358fb16e17e74602",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddb0000e8192eda1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b1612315bcc05c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "588863cc4354e01d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Estrutura",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "8e54eb755f28574a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "24c33db7ed9ddc14",
+    "type": "split",
+    "children": [
+      {
+        "id": "6486ca97cfed4e00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72d9c4165a5b3b88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "130db089287f11dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "2e6bcb665dea5513",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "108189fab5222b68",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "c1916f2d84808a73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "acbed7106d231206",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "704dea73584e4fe3",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "c3cd4a85f3221051",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "random-note:Abrir nota aleatória": false,
+      "copilot:Open Copilot Chat": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c845a13cb18149e9",
+  "lastOpenFiles": [
+    "README.md",
+    "html/Estrutura do HTML/Estrutura.md",
+    "Sem título.md",
+    "html/Estrutura do HTML/head.md",
+    "copilot/copilot-conversations/teste@20260626_174148.md",
+    "copilot/copilot-conversations",
+    "copilot",
+    "html/Estrutura do HTML/doctype.md",
+    "html/HTML.md",
+    "Desenvolvimento Web.md",
+    "html/Estrutura do HTML",
+    "Sem título.base",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "html/Estrutura do HTML/Estrutura do HTML.md",
+    "TagsRoutes/logMessage.md",
+    "TagsRoutes/logs",
+    "TagsRoutes",
+    "css/CSS.md",
+    "css",
+    "html/Estrutura do HTML/body.md",
+    "CSS.md",
+    "Doctype.md",
+    "css",
+    "html"
+  ]
+}
