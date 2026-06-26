@@ -208,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,12 +222,7 @@
       "random-note:Abrir nota aleatória": false,
       "copilot:Open Copilot Chat": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "knowledge-graph-analysis:Graph analysis view": false,
-      "brain-atlas:Open atlas": false,
-      "obsidian-git:Open Git source control": false,
-      "3d-graph:3D Graph": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "tags-routes:Open tags routes": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c845a13cb18149e9",
