@@ -11,14 +11,10 @@
             "id": "cb022db178eddf7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "html/Estrutura do HTML/Estrutura.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Estrutura"
+              "title": "Nova aba"
             }
           },
           {
@@ -227,16 +223,21 @@
   },
   "active": "c845a13cb18149e9",
   "lastOpenFiles": [
-    "html/Estrutura do HTML/Estrutura.md",
-    "Sem título.md",
     "html/Estrutura do HTML/head.md",
+    "html/Estrutura do HTML/Estrutura.md",
+    "html/Estrutura do HTML/doctype.md",
+    "html/Estrutura do HTML/body.md",
+    "html/HTML.md",
+    "html/Estrutura do HTML",
+    "html",
+    "css/CSS.md",
+    "css",
+    "README.md",
+    "Sem título.md",
     "copilot/copilot-conversations/teste@20260626_174148.md",
     "copilot/copilot-conversations",
     "copilot",
-    "html/Estrutura do HTML/doctype.md",
-    "html/HTML.md",
     "Desenvolvimento Web.md",
-    "html/Estrutura do HTML",
     "Sem título.base",
     "Sem título 1.canvas",
     "Sem título.canvas",
@@ -244,12 +245,7 @@
     "TagsRoutes/logMessage.md",
     "TagsRoutes/logs",
     "TagsRoutes",
-    "css/CSS.md",
-    "css",
-    "html/Estrutura do HTML/body.md",
     "CSS.md",
-    "Doctype.md",
-    "css",
-    "html"
+    "Doctype.md"
   ]
 }
