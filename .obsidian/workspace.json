@@ -39,10 +39,14 @@
             "id": "d0adc9d6f87203c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "html/Estrutura do HTML/Estrutura.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estrutura"
             }
           }
         ],
