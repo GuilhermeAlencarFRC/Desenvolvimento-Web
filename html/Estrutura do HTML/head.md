@@ -1,1 +1,1 @@
-o head 
+o head é uma seção do HTML aonde é armazenado informações sobre a pagina, mas que não são exibidas visualmente no navegador 
