@@ -41,12 +41,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/Sem título.md",
+                "file": "javascript/Estrutura do JAVASCRIPT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Estrutura do JAVASCRIPT"
+            }
+          },
+          {
+            "id": "14fd645b6619c4ea",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ],
@@ -245,14 +255,15 @@
   },
   "active": "02900a016662691c",
   "lastOpenFiles": [
-    "css/Sem título.md",
-    "html/Estrutura do HTML/Estrutura HTML.md",
     "Desenvolvimento Web.md",
+    "html/Estrutura do HTML/Estrutura HTML.md",
     "html/HTML.md",
     "javascript/JavaScript.md",
+    "css/Estrutura do CSS.md",
+    "banco de dados/Banco de Dados.md",
+    "javascript/Estrutura do JAVASCRIPT.md",
     "html/Estrutura do HTML/body.md",
     "html/Estrutura do HTML/doctype.md",
-    "banco de dados/Banco de Dados.md",
     "javascript",
     "banco de dados",
     "html/Estrutura do HTML/head.md",
