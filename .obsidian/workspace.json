@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "head"
             }
+          },
+          {
+            "id": "2b5ab129515c27fe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
           }
         ]
       }
