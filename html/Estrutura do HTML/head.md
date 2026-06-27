@@ -8,4 +8,9 @@ o head é uma seção do HTML aonde é armazenado informações sobre a pagina, 
     <!-- Conteudo do head vai vir aqui -->
   </head>
   <body>
+    <!-- conteudo visivel da pagina -->
+  </body>
+</html>
 ```
+
+### oque 
