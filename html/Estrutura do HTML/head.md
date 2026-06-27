@@ -31,7 +31,7 @@ o head é uma seção do HTML aonde é armazenado informações sobre a pagina, 
 <link rel="stylesheet" href="style.css">
 ```
 
-> [!Confusão do href a importancia de ] 
-> dentro da tag href que é usada para definir o arquivo principal do [[CSS]] é importante sempre ficar atento ao nome é muito comum voce acabar por criar um arquivo CSS com o nome diferente da declaração comparado a tag os dois tem que ter o mesmo nome 
-> (o mesmo nome do diretorio escrito em href tem que ser o mesmo do seu CSS)
+> [!warning] 
+> dentro da tag href que é usada para definir o arquivo principal do [[CSS]] é importante sempre ficar atento ao nome é muito comum voce acabar por criar um arquivo [[CSS]] com o nome diferente da declaração comparado a tag os dois tem que ter o mesmo nome 
+> (o mesmo nome do diretorio escrito em href tem que ser o mesmo do seu [[CSS]])
 
