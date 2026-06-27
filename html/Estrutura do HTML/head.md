@@ -51,3 +51,6 @@ guarda os scripts [[JavaScript]] da sua pagina
 
 - #### Link para favicon
 `<link rel="icon" href="favicon.ico">`
+basicamente é o icone do site, na aba do navegador 
+
+#### Exemplo completo 
