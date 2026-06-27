@@ -41,6 +41,9 @@ o head é uma seção do HTML aonde é armazenado informações sobre a pagina, 
 #### Exemplo 
 ```
 <link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="paginaTal.css">
+<link rel="stylesheet" href="PaginaTal.css">
 <link rel="stylesheet" href="EfeitoTal.css">
 ```
+
+- #### Scripts
+ 
