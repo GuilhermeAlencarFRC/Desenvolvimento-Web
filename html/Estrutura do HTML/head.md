@@ -49,4 +49,5 @@ o head é uma seção do HTML aonde é armazenado informações sobre a pagina, 
 `<script src="script.js"></script>`
 guarda os scripts [[JavaScript]] da sua pagina 
 
-- #### 
+- #### Link para favicon
+`<link rel="icon" href="favicon.ico">`
