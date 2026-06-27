@@ -188,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ce33fe7272fa8b0",
+  "active": "8868d5f2bb7b6bb3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "html/Estrutura do HTML/Estrutura HTML.md",
+    "conflict-files-obsidian-git.md",
     "html/Estrutura do HTML/body.md",
     "README.md",
     "Desenvolvimento Web.md"
