@@ -20,5 +20,6 @@ o head é uma seção do HTML aonde é armazenado informações sobre a pagina, 
 - #### metadados
 ```
 <meta charset="UTF-8"> <!-- Codificação de caracteres -->
-<meta name="viewport" content>
+<meta name="viewport" content="width=device=width, initial-scale=1.0"> <!-- Responsivo -->
+<meta name="description" content"">
 ```
