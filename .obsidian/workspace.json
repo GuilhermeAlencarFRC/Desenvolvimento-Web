@@ -165,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de conflict-files-obsidian-git"
+              "title": "Sumário"
             }
           },
           {
@@ -206,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57e1cb77d1082c64",
+  "active": "8ce33fe7272fa8b0",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "html/Estrutura do HTML/Estrutura HTML.md",
