@@ -18,4 +18,7 @@ o head é uma seção do HTML aonde é armazenado informações sobre a pagina, 
 `<title>Titulo do meu site Incrivel</title>`
 
 - #### metadados
-`<meta charset=">`
+```
+<meta charset="UTF-8"> <!-- Codificação de caracteres -->
+<meta name="viewport" content>
+```
