@@ -6,6 +6,7 @@
       {
         "id": "fdd91508b67c09e0",
         "type": "tabs",
+        "dimension": 56.20272314674736,
         "children": [
           {
             "id": "d77d7cce115a8f8b",
@@ -20,7 +21,14 @@
               "icon": "lucide-file",
               "title": "head"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9b44219df3d82a41",
+        "type": "tabs",
+        "dimension": 43.79727685325265,
+        "children": [
           {
             "id": "2b5ab129515c27fe",
             "type": "leaf",
@@ -31,8 +39,7 @@
               "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"

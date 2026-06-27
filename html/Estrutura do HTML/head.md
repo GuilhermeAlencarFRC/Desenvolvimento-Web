@@ -53,4 +53,19 @@ guarda os scripts [[JavaScript]] da sua pagina
 `<link rel="icon" href="favicon.ico">`
 basicamente é o icone do site, na aba do navegador 
 
-#### Exemplo completo 
+- #### Exemplo completo 
+```
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Inicial</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Bem-vindo!</h1>
+    <p>Este é o conteúdo visível.</p>
+  </body>
+</html>
+```
