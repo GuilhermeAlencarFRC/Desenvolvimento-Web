@@ -41,26 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Estrutura do JAVASCRIPT.md",
+                "file": "banco de dados/MongoDB/Estrutura do MONGODB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estrutura do JAVASCRIPT"
+              "title": "Estrutura do MONGODB"
             }
           },
           {
             "id": "14fd645b6619c4ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "banco de dados/MongoDB/MongoDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MongoDB"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -253,15 +257,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02900a016662691c",
+  "active": "14fd645b6619c4ea",
   "lastOpenFiles": [
+    "banco de dados/Banco de Dados.md",
+    "banco de dados/MongoDB/Estrutura do MONGODB.md",
+    "banco de dados/MongoDB/MongoDB.md",
+    "banco de dados/MongoDB",
+    "banco de dados/Sem título.md",
+    "css/CSS.md",
+    "css/Estrutura do CSS.md",
+    "javascript/Estrutura do JAVASCRIPT.md",
     "Desenvolvimento Web.md",
     "html/Estrutura do HTML/Estrutura HTML.md",
     "html/HTML.md",
     "javascript/JavaScript.md",
-    "css/Estrutura do CSS.md",
-    "banco de dados/Banco de Dados.md",
-    "javascript/Estrutura do JAVASCRIPT.md",
     "html/Estrutura do HTML/body.md",
     "html/Estrutura do HTML/doctype.md",
     "javascript",
@@ -271,7 +280,6 @@
     "d.md",
     "html/Estrutura do HTML",
     "html",
-    "css/CSS.md",
     "css",
     "README.md",
     "copilot/copilot-conversations/teste@20260626_174148.md",
@@ -283,7 +291,6 @@
     "html/Estrutura do HTML/Estrutura do HTML.md",
     "TagsRoutes/logMessage.md",
     "TagsRoutes/logs",
-    "TagsRoutes",
     "CSS.md",
     "Doctype.md"
   ]
