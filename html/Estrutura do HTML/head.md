@@ -26,4 +26,10 @@ o head é uma seção do HTML aonde é armazenado informações sobre a pagina, 
 <meta name="description" content="Descrição do meu site"> <!--- para buscadores --->
 ```
 
-#### Estilo [[CSS]]
+- #### Estilo [[CSS]]
+```
+<link rel="stylesheet" href="style.css">
+```
+
+> [!NOTE] Title
+> Contents
