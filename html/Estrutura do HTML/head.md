@@ -31,5 +31,6 @@ o head é uma seção do HTML aonde é armazenado informações sobre a pagina, 
 <link rel="stylesheet" href="style.css">
 ```
 
-> [!NOTE] Title
-> Contents
+> [!Importante] 
+> dentro da tag href que é usada para definir o arquivo principal do [[CSS]] 
+
