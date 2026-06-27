@@ -13,4 +13,6 @@ o head é uma seção do HTML aonde é armazenado informações sobre a pagina, 
 </html>
 ```
 
-### oque 
+### Oque pode ir dentro do head ?
+- #### Titulo da pagina
+`<>`
