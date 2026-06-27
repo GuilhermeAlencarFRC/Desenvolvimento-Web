@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "html/Estrutura do HTML/head.md",
+                "file": "html/Estrutura do HTML/Estrutura HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "head"
+              "title": "Estrutura HTML"
             }
           },
           {
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html/Estrutura do HTML/head.md",
+                "file": "html/Estrutura do HTML/Estrutura HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para head"
+              "title": "Links inversos para Estrutura HTML"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html/Estrutura do HTML/head.md",
+                "file": "html/Estrutura do HTML/Estrutura HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para head"
+              "title": "Links de saída para Estrutura HTML"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "html/Estrutura do HTML/head.md",
+                "file": "html/Estrutura do HTML/Estrutura HTML.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de head"
+              "title": "Sumário de Estrutura HTML"
             }
           },
           {
@@ -211,6 +211,7 @@
   },
   "active": "d77d7cce115a8f8b",
   "lastOpenFiles": [
+    "html/Estrutura do HTML/head.md",
     "html/Estrutura do HTML/Estrutura HTML.md",
     "conflict-files-obsidian-git.md",
     "html/Estrutura do HTML/body.md",
