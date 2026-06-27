@@ -39,3 +39,8 @@ o head é uma seção do HTML aonde é armazenado informações sobre a pagina, 
 > [!tip] Title
 > Recomendo sempre fazer o [[CSS]] em subsystemas para que o codigo fique facil de visualizar e organizado mas lembre que ao criar outro arquivo [[CSS]] voce tem que declarar ele no seu [[HTML]] principal usando o href sempre 
 #### Exemplo 
+```
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="paginaTal.css">
+<link rel="stylesheet" href="EfeitoTal.css">
+```
