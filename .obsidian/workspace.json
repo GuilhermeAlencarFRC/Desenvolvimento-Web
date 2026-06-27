@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "html/Estrutura do HTML/Estrutura HTML.md",
+                "file": "html/Estrutura do HTML/head.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estrutura HTML"
+              "title": "head"
             }
           },
           {
@@ -31,8 +31,7 @@
               "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7aeccf67a7e1bfb3",
@@ -105,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "html/Estrutura do HTML/head.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para head"
             }
           },
           {
@@ -123,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "html/Estrutura do HTML/head.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para head"
             }
           },
           {
@@ -165,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "html/Estrutura do HTML/head.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de head"
             }
           },
           {
@@ -206,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8868d5f2bb7b6bb3",
+  "active": "d77d7cce115a8f8b",
   "lastOpenFiles": [
     "html/Estrutura do HTML/Estrutura HTML.md",
     "conflict-files-obsidian-git.md",
