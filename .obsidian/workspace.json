@@ -6,6 +6,7 @@
       {
         "id": "fdd91508b67c09e0",
         "type": "tabs",
+        "dimension": 56.05143721633888,
         "children": [
           {
             "id": "d77d7cce115a8f8b",
@@ -20,19 +21,22 @@
               "icon": "lucide-file",
               "title": "head"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "80af670cc5cb93bf",
+        "type": "tabs",
+        "dimension": 43.948562783661124,
+        "children": [
           {
             "id": "8868d5f2bb7b6bb3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "html/HTML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTML"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -213,11 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d77d7cce115a8f8b",
+  "active": "8868d5f2bb7b6bb3",
   "lastOpenFiles": [
+    "html/Estrutura do HTML/head.md",
     "html/HTML.md",
     "Desenvolvimento Web.md",
-    "html/Estrutura do HTML/head.md",
     "html/Estrutura do HTML/Estrutura HTML.md",
     "html/Estrutura do HTML/body.md",
     "conflict-files-obsidian-git.md",
