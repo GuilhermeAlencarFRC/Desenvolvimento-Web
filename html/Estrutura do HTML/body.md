@@ -25,4 +25,7 @@ Praticamente qualquer elemento visivel:
 <h3>Seção menor</h3>
 ```
 
-#### 1. Parágrafos
+#### 1. Parágrafos (`<p>`)
+`<p> Este é um parágrafo de texto normal.</p>`
+
+#### 1. Imagens (`<img>`)
