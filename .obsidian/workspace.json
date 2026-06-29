@@ -32,7 +32,8 @@
               "title": "Visualização em gráfico"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d77d7cce115a8f8b",
+  "active": "ece6d8443a81eafd",
   "lastOpenFiles": [
     "html/Estrutura do HTML/head.md",
     "html/Estrutura do HTML/body.md",
