@@ -201,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,9 +220,9 @@
   },
   "active": "d77d7cce115a8f8b",
   "lastOpenFiles": [
-    "javascript/JavaScript.md",
     "html/Estrutura do HTML/head.md",
     "html/Estrutura do HTML/body.md",
+    "javascript/JavaScript.md",
     "().md",
     "html/Estrutura do HTML/doctype.md",
     "html/HTML.md",
