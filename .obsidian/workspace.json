@@ -6,7 +6,7 @@
       {
         "id": "fdd91508b67c09e0",
         "type": "tabs",
-        "dimension": 56.20272314674735,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "d77d7cce115a8f8b",
@@ -14,29 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "html/Estrutura do HTML/head.md",
+                "file": "html/Estrutura do HTML/doctype.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "head"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9b44219df3d82a41",
-        "type": "tabs",
-        "dimension": 43.79727685325265,
-        "children": [
-          {
-            "id": "2b5ab129515c27fe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "title": "doctype"
             }
           }
         ]
@@ -96,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7aeccf67a7e1bfb3",
@@ -217,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b5ab129515c27fe",
+  "active": "d77d7cce115a8f8b",
   "lastOpenFiles": [
     "html/Estrutura do HTML/head.md",
     "html/HTML.md",
