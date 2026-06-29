@@ -18,14 +18,14 @@ Enquanto o `<head>` é o "bastidor", o `<body>` é o "palco" tudo que o visitant
 - #### O que pode ir dentro do body ?
 Praticamente qualquer elemento visivel:
 
-#### 1.  Títulos ([`<h1>` a `<h6>`]())
+#### 1.  Títulos ([`<h1>` a `<h6>]())
 ```
 <h1>Título Principal</h1>
 <h2>Subtítulo</h2>
 <h3>Seção menor</h3>
 ```
 
-#### 1. Parágrafos (`<p>`)
+#### 1. Parágrafos ([[<p>]])
 `<p> Este é um parágrafo de texto normal.</p>`
 
 #### 1. Imagens (`<img>`)
