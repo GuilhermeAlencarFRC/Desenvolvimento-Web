@@ -25,4 +25,9 @@ HTML5 (atual)
 ```
 <!DOCTYPE html>
 ```
-Ainda bem que mudou ta doido, eu ja teria desistido da programação galera.
+
+> [!abstract]
+> Ainda bem que mudou ta doido, eu ja teria desistido da programação nessa epoca galera.
+
+- #### Exemplo de um documento completo
+``
