@@ -45,6 +45,10 @@ HTML5 (atual)
 
 
 > [!important] Oque acontece sem o DOCTYPE?
-> Caso voce for meio mongol e não colocar,
+> Caso voce for meio mongol e não colocar, o navegador tenta adivinhar qual versão voce esta usando. isso pode causar algumas merdas tipo:
+>- Quebrar o layout
+>- Causar bugs estranhos e bizzaros
+>- Deixar a pagina feia e toda cagada
+>- Prejudicar o SEO
 > 
 
