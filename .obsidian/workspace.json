@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "body"
             }
+          },
+          {
+            "id": "ece6d8443a81eafd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,14 +220,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d77d7cce115a8f8b",
+  "active": "ece6d8443a81eafd",
   "lastOpenFiles": [
+    "html/Estrutura do HTML/body.md",
     "html/Estrutura do HTML/doctype.md",
     "html/Estrutura do HTML/head.md",
     "html/HTML.md",
     "Desenvolvimento Web.md",
     "html/Estrutura do HTML/Estrutura HTML.md",
-    "html/Estrutura do HTML/body.md",
     "conflict-files-obsidian-git.md",
     "README.md"
   ]
