@@ -22,3 +22,7 @@ XHTML
 ```
 
 HTML5 (atual)
+```
+<!DOCTYPE html>
+```
+Ainda bem que mudou ta doido, eu ja teria desistido da programação galera.
