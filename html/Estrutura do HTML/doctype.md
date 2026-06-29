@@ -52,3 +52,13 @@ HTML5 (atual)
 >- Prejudicar o SEO
 > 
 
+
+- #### Resumindo
+
+| Aspecto     | Explicação |
+| ----------- | ---------- |
+| O que       |            |
+| onde        |            |
+| Como        |            |
+| Importancia |            |
+| Frequencia  |            |
