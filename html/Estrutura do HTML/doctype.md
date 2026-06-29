@@ -29,5 +29,22 @@ HTML5 (atual)
 > [!abstract]
 > Ainda bem que mudou ta doido, eu ja teria desistido da programação nessa epoca galera.
 
-- #### Exemplo de um documento completo
-``
+- #### Exemplo completo
+```
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <title>Minha Página</title>
+  </head>
+  <body>
+    <h1>Olá mundo!</h1>
+  </body>
+</html>
+```
+
+
+> [!important] Oque acontece sem o DOCTYPE?
+> Caso voce for meio mongol e não colocar,
+> 
+
