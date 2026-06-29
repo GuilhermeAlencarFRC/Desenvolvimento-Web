@@ -11,3 +11,14 @@ Nos tempos antigos da web, existiam varias versões do [[HTML]] (HYTML4, XHTML, 
 - #### Comparação com versões antigas
 preste atenção como era uma dor de cabeça antes:
 
+HTML4
+```
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+```
+
+XHTML
+```
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+```
+
+HTML5 (atual)
