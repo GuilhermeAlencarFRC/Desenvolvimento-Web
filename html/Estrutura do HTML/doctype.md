@@ -55,10 +55,10 @@ HTML5 (atual)
 
 - #### Resumindo
 
-| Aspecto     | Explicação |
-| ----------- | ---------- |
-| O que       |            |
-| onde        |            |
-| Como        |            |
-| Importancia |            |
-| Frequencia  |            |
+| Aspecto     | Explicação                         |
+| ----------- | ---------------------------------- |
+| O que       | Declaração que diz "isso é HTML5"  |
+| onde        | Primeira linha do arquivo          |
+| Como        | `<!DOCTYPE html>`                  |
+| Importancia | Sem isso, o navegador fica confuso |
+| Frequencia  | Apenas uma vez, no inicio          |
