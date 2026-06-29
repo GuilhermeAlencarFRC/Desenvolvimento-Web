@@ -19,4 +19,10 @@ Enquanto o `<head>` é o "bastidor", o `<body>` é o "palco" tudo que o visitant
 Praticamente qualquer elemento visivel:
 
 #### 1.  Títulos (`<h1>` a `<h6>`)
+```
+<h1>Título Principal</h1>
+<h2>Subtítulo</h2>
+<h3>Seção menor</h3>
+```
 
+#### 1. Parágrafos
