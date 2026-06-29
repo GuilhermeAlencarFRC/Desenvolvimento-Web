@@ -6,4 +6,8 @@ Nos tempos antigos da web, existiam varias versões do [[HTML]] (HYTML4, XHTML, 
 
 - #### Como é o HTML5 (atual)
 `<!DOCTYPE html>`
-é literalmente isso, 
+É literalmente isso, Super simples. Vai sempre ser a primeira linha do arquivo.
+
+- #### Comparação com versões antigas
+preste atenção como era uma dor de cabeça antes:
+
