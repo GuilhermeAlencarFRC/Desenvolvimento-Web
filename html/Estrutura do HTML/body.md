@@ -29,3 +29,4 @@ Praticamente qualquer elemento visivel:
 `<p> Este é um parágrafo de texto normal.</p>`
 
 #### 1. Imagens (`<img>`)
+`<img src="foto.jpg" alt="Descrição da imagem">`
