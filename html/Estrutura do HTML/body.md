@@ -15,4 +15,8 @@ Enquanto o `<head>` é o "bastidor", o `<body>` é o "palco" tudo que o visitant
 </html>
 ```
 
+- #### O que pode ir dentro do body ?
+Praticamente qualquer elemento visivel:
+
+#### 1.  Títulos (`<h1>` a `<h6>`)
 
