@@ -25,9 +25,9 @@ Praticamente qualquer elemento visivel:
 <h3>Seção menor</h3>
 ```
 
-#### 1. Parágrafos ([[<p>]])
+#### 2. Parágrafos ([[<p>]])
 `<p> Este é um parágrafo de texto normal.</p>`
 
-#### 2. Imagens ([[<img>]])
+#### 3. Imagens ([[<img>]])
 `<img src="foto.jpg" alt="Descrição da imagem">`
 
