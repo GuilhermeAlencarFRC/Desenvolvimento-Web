@@ -31,3 +31,5 @@ Praticamente qualquer elemento visivel:
 #### 3. Imagens ([[<img>]])
 `<img src="foto.jpg" alt="Descrição da imagem">`
 
+#### 4. Links ([[<a>]])
+`<a href="https://google.com">`
