@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "html/Estrutura do HTML/head.md",
+                "file": "html/Estrutura do HTML/body.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "head"
+              "title": "body"
             }
           },
           {
