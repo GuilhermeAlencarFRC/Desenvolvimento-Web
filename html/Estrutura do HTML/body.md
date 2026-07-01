@@ -45,3 +45,5 @@ Praticamente qualquer elemento visivel:
 
 #### 6. Botões ([[<button>]])
 `<button>Clique em mim</button>`
+
+#### 7. Formulários ([[<form>,<input>,<textarea>]])
