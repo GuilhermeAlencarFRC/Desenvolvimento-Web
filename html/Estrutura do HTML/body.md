@@ -32,4 +32,13 @@ Praticamente qualquer elemento visivel:
 `<img src="foto.jpg" alt="Descrição da imagem">`
 
 #### 4. Links ([[<a>]])
-`<a href="https://google.com">`
+`<a href="https://google.com">Clique aqui</a>`
+
+#### 5. Listas ([[<ul>,<ol>,<li>]])
+```
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
+```
