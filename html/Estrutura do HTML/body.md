@@ -42,3 +42,6 @@ Praticamente qualquer elemento visivel:
   <li>Item 3</li>
 </ul>
 ```
+
+#### 6. Botões ([[<button>]])
+`<button>Clique em mim</button>`
