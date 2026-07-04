@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "html/Estrutura do HTML/head.md",
+                "file": "html/Estrutura do HTML/body.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "head"
+              "title": "body"
             }
           },
           {
@@ -219,10 +219,10 @@
   },
   "active": "d77d7cce115a8f8b",
   "lastOpenFiles": [
+    "html/Estrutura do HTML/head.md",
     "html/HTML.md",
     "html/Estrutura do HTML/body.md",
     "conflict-files-obsidian-git.md",
-    "html/Estrutura do HTML/head.md",
     "javascript/JavaScript.md",
     "().md",
     "html/Estrutura do HTML/doctype.md",
