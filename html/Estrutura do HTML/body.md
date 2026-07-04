@@ -47,4 +47,7 @@ Praticamente qualquer elemento visivel:
 `<button>Clique em mim</button>`
 
 #### 7. Formulários ([[<form>,<input>,<textarea>]])
+<<<<<<< HEAD
 `<teste>`sascssacscccacascasc
+=======
+>>>>>>> 2ea580bfbe9fc04e699866391bdb7290a024e8fb
