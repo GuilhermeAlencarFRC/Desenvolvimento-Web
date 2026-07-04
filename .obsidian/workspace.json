@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "<form>,<input>,<textarea>.md",
+                "file": "html/Estrutura do HTML/body.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "<form>,<input>,<textarea>"
+              "title": "body"
             }
           },
           {
@@ -219,16 +219,16 @@
   },
   "active": "d77d7cce115a8f8b",
   "lastOpenFiles": [
+    "html/Estrutura do HTML/head.md",
+    "html/Estrutura do HTML/Estrutura HTML.md",
     "html/Estrutura do HTML/body.md",
     "<form>,<input>,<textarea>.md",
-    "html/Estrutura do HTML/head.md",
+    "html/Estrutura do HTML/doctype.md",
+    "README.md",
+    "Desenvolvimento Web.md",
     "html/HTML.md",
     "conflict-files-obsidian-git.md",
     "javascript/JavaScript.md",
-    "().md",
-    "html/Estrutura do HTML/doctype.md",
-    "Desenvolvimento Web.md",
-    "html/Estrutura do HTML/Estrutura HTML.md",
-    "README.md"
+    "().md"
   ]
 }
