@@ -1,0 +1,21 @@
+
+.graph-node[data-title="Desenvolvimento Web"] {
+  r: 25px !important;
+  fill: hwb(216 0% 0%) !important;
+  stroke: #2980b9 !important;
+  stroke-width: 3px !important;
+}
+
+.graph-node[data-title="HTML"] {
+  r: 25px !important;
+  fill: lab(34.9% 80.13 -103.46) !important;
+  stroke: #2980b9 !important;
+  stroke-width: 3px !important;
+}
+
+.graph-node[data-title="CSS"] {
+  r: 25px !important;
+  fill: lab(34.9% 80.13 -103.46) !important;
+  stroke: #2980b9 !important;
+  stroke-width: 3px !important;
+}
