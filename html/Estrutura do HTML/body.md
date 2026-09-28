@@ -22,7 +22,7 @@ Praticamente qualquer elemento visivel:
 ```
 <h1>Título Principal</h1>
 <h2>Subtítulo</h2>
-<h3>Seção menor</h3>
+<h3>Seção menor</h3>d
 ```
 
 #### 2. Parágrafos ([[<p>]])
